@@ -1,4 +1,4 @@
-# Bruce Lee Buddha
+# Bruce Lee Buddha Proxy VPN
 
 ## Project Description
 This project is dedicated to the martial arts philosophy of Bruce Lee combined with the spiritual teachings of Buddha. It aims to provide a comprehensive understanding of their quotes and principles.
